@@ -56,7 +56,7 @@ Here’s a snapshot of the technologies I’m proficient in:
 - 🧠 Innovate more **AI-driven** solutions that create real-world impact.
 
 ## 📫 How to Reach Me
-- [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white&style=flat)](https://www.linkedin.com/in/ashan-lakshitha/)
+- [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white&style=flat)](https://www.linkedin.com/in/ashan-lakshitha-768633244/)
 - 📧 Email: ashan.lakshitha.j99@gmail.com
 
 ---
