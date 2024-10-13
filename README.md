@@ -33,6 +33,9 @@ Here’s a snapshot of the technologies I’m proficient in:
 ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?logo=tensorflow&logoColor=white&style=flat) 
 ![Scikit-learn](https://img.shields.io/badge/-Scikit%20Learn-F7931E?logo=scikit-learn&logoColor=white&style=flat) 
 ![NLP](https://img.shields.io/badge/-NLP-FF6F00?logo=numpy&logoColor=white&style=flat)
+![Hugging Face](https://img.shields.io/badge/-Hugging%20Face-FFD700?logo=hugging-face&logoColor=black&style=flat)
+![Transformers](https://img.shields.io/badge/-Transformers-FF6F00?logo=tensorflow&logoColor=white&style=flat)
+
 
 🔧 **Version Control & Tools**  
 ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=flat) 
@@ -54,7 +57,7 @@ Here’s a snapshot of the technologies I’m proficient in:
 
 ## 📫 How to Reach Me
 - [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white&style=flat)](https://www.linkedin.com/in/ashan-lakshitha/)
-- 📧 Email: ashan.lakshitha@example.com
+- 📧 Email: ashan.lakshitha.j99@gmail.com
 
 ---
 
