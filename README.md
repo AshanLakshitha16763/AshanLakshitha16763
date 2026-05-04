@@ -1,10 +1,10 @@
 # Hi there, I'm Ashan Lakshitha 👋
 
-Welcome to my GitHub profile! I'm an enthusiastic **Software Engineer** passionate about building scalable and innovative solutions. I'm currently a student at **Sabaragamuwa University**, pursuing my degree in Computing and Information Systems, and I'm gaining hands-on experience as a **Software Engineering Intern** at **BISTEC Global Services**.
+Welcome to my GitHub profile! I'm an enthusiastic **Software Engineer** passionate about building scalable and innovative solutions. I'm graduated in **Sabaragamuwa University**, pursuing my degree in Computing and Information Systems, and I'm gaining hands-on experience as a **Software Engineering Intern** at **BISTEC Global Services**.
 
 ## 👨‍💻 About Me
 - 🔭 I’m currently working on **MERN Stack** applications (MongoDB, Express.js, React, Node.js).
-- 🤖 I’m exploring **Artificial Intelligence (AI)** and **Machine Learning (ML)** during my internship at **BISTEC Global Services**.
+- 🤖 I completed my internship in **BISTEC Global Services** with exploring **Artificial Intelligence (AI)** and **Machine Learning (ML)** .
 - 🎓 I'm sharpening my skills in **Full-Stack Development** and **AI/ML** to stay ahead in the tech industry.
 - 🌱 I’m always eager to learn new technologies and improve my skills through collaboration.
 
